@@ -17,4 +17,4 @@ spring:
       enabled: true
      
   
-msg: Hello world - this is from config server dev environment tax
+msg: Hello world - this is from config server dev environment taxxxxxxxxxxxxxxxxxx
