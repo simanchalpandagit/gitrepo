@@ -17,4 +17,4 @@ spring:
       enabled: true
      
   
-msg: Hello world - this is from config server dev environment tax - 24-09-2020, zipkin,sleuth
+msg: Hello world - this is from config server dev environment discount - 24-09-2020, zipkin,sleuth
